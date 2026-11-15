@@ -1,6 +1,6 @@
 # Awesome-Executive-Reporting-Storage-Analytics
 
-# Top Executive Reporting & Storage Analytics Ecosystem
+## Top Executive Reporting & Storage Analytics Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Backup Infrastructure Reporting, Capacity Forecasting & Self-Hosted BI Dashboards*  
