@@ -196,9 +196,9 @@
       <!-- Animated Bars -->
       <rect x="15" y="65" width="22" height="55" rx="4" fill="url(#barGrad1)" />
       <rect x="55" y="45" width="22" height="75" rx="4" fill="url(#barGrad1)" />
-      <rect x="95" class="bar-anim-1" x="95" y="60" width="22" height="60" rx="4" fill="url(#barGrad1)" />
+      <rect class="bar-anim-1" x="95" y="60" width="22" height="60" rx="4" fill="url(#barGrad1)" />
       <rect x="135" y="30" width="22" height="90" rx="4" fill="url(#barGrad2)" />
-      <rect x="175" class="bar-anim-2" x="175" y="95" width="22" height="95" rx="4" fill="url(#barGrad2)" />
+      <rect class="bar-anim-2" x="175" y="95" width="22" height="95" rx="4" fill="url(#barGrad2)" />
       <rect x="215" y="20" width="22" height="100" rx="4" fill="url(#barGrad2)" />
       <rect x="255" y="40" width="22" height="80" rx="4" fill="url(#barGrad1)" />
       <rect x="295" y="15" width="22" height="105" rx="4" fill="url(#accentGrad)" />
