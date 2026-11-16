@@ -66,7 +66,7 @@ The table below outlines leading enterprise SaaS platforms for storage monitorin
 
 For organizations prioritizing data sovereignty, air-gapped security, or zero per-TB software licensing fees, these open-source tools offer enterprise-grade storage reporting, time-series capacity telemetry, and SQL-driven dashboards. Repositories are sorted by **GitHub_Stars** in descending order.
 
-| Project 🛠️ | GitHub Stars_Badge ⭐ | Description 📖 | Key Strengths 🌟 |
+| Project 🛠️ | GitHub_Stars_Badge ⭐ | Description 📖 | Key Strengths 🌟 |
 |------------|---------------------|----------------|------------------|
 | **[Netdata](https://github.com/netdata/netdata)** | [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) | High-resolution, real-time infrastructure and storage performance monitoring agent. Collects per-second metrics for disk I/O, latency, mount points, and backup system processes. | Real-time 1s resolution, zero-configuration discovery, ultra-low resource footprint, built-in machine-learning anomaly detection. |
 | **[Grafana](https://github.com/grafana/grafana)** | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | The gold standard for time-series operational dashboards and infrastructure metrics. Connects seamlessly to Prometheus, InfluxDB, Loki, and storage vendor exporters. | Native support for hundreds of data sources, robust alert manager, capacity degradation forecasting, time-series visualization. |
